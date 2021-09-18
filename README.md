@@ -1,6 +1,6 @@
-# CIT 114 Week 1
+# CIT 114 Week 2
 ## Here are some important things I learned 
-### Introduction to Information Technology
+### Cloud Overview
 
 #### The Four Pillars of an IT Framework
 1. Infrastructure
