@@ -5,9 +5,12 @@ Identify two quotes that were made, that you found interesting.
 What new facts did you learn from this section?
 What questions remain in your mind after reading this section?
 
-## Here are some important things I learned 
-- I learned it not everything online is the cloud. The question in one of the assignenments threw me because I thought everything online is the cloud. My brain still thinks about IT the way it was 20 years ago. 
-
+##### Here are some important things I learned 
+- I learned that not everything online is the cloud. The question in one of the assignenments threw me because I thought everything online is the cloud. My brain still thinks about IT the way it was 20 years ago. I've now learned it's evolved definition "a distinct IT enviro for the purpose of remotely provisioning scalable and measured IT resources". 
+##### Quotes
+- I found the two quotes by John McCarthy and Leonard Kleinrock interesting. They knew where technology was going. Especially the Mr. McCarthy, predicting that it would become a utility since that was early 60's. 
+##### Quesions left 
+##### Summarize
 ### WEEK 2 - CLOUD COMPUTING
 
 #### Brief History
