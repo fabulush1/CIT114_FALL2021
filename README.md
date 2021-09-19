@@ -1,5 +1,13 @@
 # CIT 114 Week 2
+
+Summarize a few key points made in the readings or videos.
+Identify two quotes that were made, that you found interesting.
+What new facts did you learn from this section?
+What questions remain in your mind after reading this section?
+
 ## Here are some important things I learned 
+- I learned it not everything online is the cloud. The question in one of the assignenments threw me because I thought everything online is the cloud. My brain still thinks about IT the way it was 20 years ago. 
+
 ### WEEK 2 - CLOUD COMPUTING
 
 #### Brief History
@@ -87,6 +95,7 @@ Evolution of the term "cloud"
 - IaaS
 - PaaS
 - SaaS
+![image](https://user-images.githubusercontent.com/89503231/133945517-d2713431-b80d-4d76-9d9e-46c151be2722.png)
 
 #### 2.10 Infrastructure as a Service (IaaS)
 ##### Common Scenarios
@@ -141,18 +150,18 @@ Evolution of the term "cloud"
 - Saas 
 
 #### 2.14 Cloud Computing Deployment Models
-##### **Cloud**
-##### **Hybrid**
-##### **On-Premises**
+##### Cloud
+##### Hybrid
+##### On-Premises
 
-#### **Background** 
+#### Background
 - AWS accessed and managed through web-based user interface.
 - Can also use AWS Console mobile app
 
-#### **AWS Console - Supported Browsers**
+#### AWS Console - Supported Browsers
 - Chrome/Firefox/IE/Edge/Safari
 
-#### **AWS Mangement Console Features**
+#### AWS Mangement Console Features
 ##### Get secure, web-based access
 ###### Secure, web based access
 - Secure login and sessions
@@ -177,3 +186,8 @@ Evolution of the term "cloud"
  - User roles and access management
  - System health and monitoring
 
+#### 2.17 The AWS Console
+- web app for managing AWS
+- interactive user interface
+     - S3 buckets
+     - launching/connection to Amazon EC2 instances (you can custom-configure CPU, storage, memory, and networking resources
