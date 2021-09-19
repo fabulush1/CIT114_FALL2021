@@ -45,3 +45,45 @@ Evolution of the term "cloud"
 ##### Cost Reduction
 
 ##### Organizational Agility
+
+#### 2.3 Concepts and Terminology
+##### Cloud
+##### IT Resource
+##### On- Premise
+##### Scaling
+     - Horizontal Scaling
+     - Vertical Scaling
+#### Cloud Service
+#### Cloud Service Consumer
+
+#### 2.4 Goals and Benefits
+##### Reduced Investments and Proportional Costs
+##### Increased Scalability
+##### Increased Availability and Reliability
+##### Specifically
+
+#### 2.5 Risks and Challanges
+##### Reduced Operational Governance Control
+##### Limited Portability between Cloud Providers
+##### Multi-Regional Regulatory and Legal Issues
+
+#### 2.6 From Google's Perspective
+1. Cloud Computing is user-centric
+2. Cloud computing is task-centric
+3. Cloud computing is powerful
+4. Cloud computing is accessible
+
+#### 2.7 From Amazon's Perspective
+##### Six Advantages of Cloud Computing
+1. Trade capital expense for variale expense
+2. Benefit from massive economies of scale
+3. Stop guessing capacity
+4. Increase speed and agility
+5. Stop spending money on running and maintaingin data centers
+6. Go global in minutes
+
+##### 2.8 From Dilbert's Perspective = Nada
+##### 2.9 [Video: Cloud Computing Models - Iaas/PaaS/Saas Explained](https://www.youtube.com/watch?v=36zducUX16w&ab_channel=EcourseReview)
+
+
+
