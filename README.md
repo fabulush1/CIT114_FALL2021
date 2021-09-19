@@ -1,6 +1,6 @@
 # CIT 114 Week 2
 ## Here are some important things I learned 
-### Cloud Overview
+### WEEK 2 - CLOUD COMPUTING
 
 #### Brief History
 Idea of computing in a "cloud" traces back to the orgins of utility computing
@@ -51,8 +51,8 @@ Evolution of the term "cloud"
 ##### IT Resource
 ##### On- Premise
 ##### Scaling
-     - Horizontal Scaling
-     - Vertical Scaling
+- Horizontal Scaling
+- Vertical Scaling
 #### Cloud Service
 #### Cloud Service Consumer
 
@@ -84,6 +84,55 @@ Evolution of the term "cloud"
 
 ##### 2.8 From Dilbert's Perspective = Nada
 ##### 2.9 [Video: Cloud Computing Models - Iaas/PaaS/Saas Explained](https://www.youtube.com/watch?v=36zducUX16w&ab_channel=EcourseReview)
+- IaaS
+- PaaS
+- SaaS
 
+#### 2.10 Infrastructure as a Service (IaaS)
+##### Common Scenarios
+- Test and Devolopment
+- Website Hosting
+- Storage, Backup, Recovery
+- Web Apps
+- High-Perfomance Computing
+- Big Data Analysis
+
+##### Advantages of Iaas
+- Eliminates capital expense and reduces ongoing cost
+- Improves business continuity and disaster recovery
+- Innovate rapidly
+- Respond quicker to shifting business conditions
+- Focus on your core business
+- Increase stability, reliability, supportability
+- Better security
+- Gets new apps to users faster
+
+#### 2.11 Platform as a Service (PaaS)
+
+##### Common Scenarios
+- Development framework
+- Analytics or business intelligence
+- Additional services
+
+##### Advantages of PaaS
+- Cut coding time
+- Add development capabilities w/o adding staff
+- Develop sophisticated tools affordably
+- Support geographically distributed development teams
+- Efficiently manage are application lifecycle
+
+#### Softwared as a Service (SaaS)
+##### Common Scenarios
+- Web based email service
+- Organizational use = email/productivity apps/calendering/customer relationship management(CRM)/enterprise resource planning(ERP)/document management
+
+##### Advantages of SaaS
+- Gain access to sophisticated applications
+- Pay only for what you use
+- Use free client software
+- Mobilize your workforce easily
+- Access data from anywhere
+
+#### ...As a Service Comparison
 
 
