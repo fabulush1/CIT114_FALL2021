@@ -133,6 +133,47 @@ Evolution of the term "cloud"
 - Mobilize your workforce easily
 - Access data from anywhere
 
-#### ...As a Service Comparison
+#### 2.13...As a Service Comparison
+![image](https://user-images.githubusercontent.com/89503231/133945064-c1beee85-95a5-4b38-8a6c-bbe2c3948e75.png)
 
+- IaaS 
+- PaaS
+- Saas 
+
+#### 2.14 Cloud Computing Deployment Models
+##### **Cloud**
+##### **Hybrid**
+##### **On-Premises**
+
+#### **Background** 
+- AWS accessed and managed through web-based user interface.
+- Can also use AWS Console mobile app
+
+#### **AWS Console - Supported Browsers**
+- Chrome/Firefox/IE/Edge/Safari
+
+#### **AWS Mangement Console Features**
+##### Get secure, web-based access
+###### Secure, web based access
+- Secure login and sessions
+- Browswer support
+- Mobile app
+###### Try out any AWS with just a few clicks
+- Easy search and navigation
+- Free Tier
+- Tutorials, documentatio, on-demand webinars, and more
+###### Use tools for building and learning
+- Automated wizards and workflows
+- Capatibility with CLIs, SDK, and other developer tools
+     - CLI - Command Line Interface
+     - SDK - Software Development Kit - a set of tools for third-party developers to use in producing applications using a particular framework or platform.
+ - AWS Marketplace
+ ###### Customize/Organize Console
+ - Shortcuts and pins
+ - Resource Groupls
+ - Tag Editor
+ ###### Manage/Monitor account
+ - Billing/Cost Management dashboard
+ - User roles and access management
+ - System health and monitoring
 
