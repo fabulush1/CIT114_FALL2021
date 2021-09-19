@@ -11,5 +11,5 @@ John McCarthy (1961) "...computing may someday be organized as a public utility
 
 Leonard Kleinrock (1959) chief scientist at ARPANET (Advanced Research Projects Agency Network, project that seeded the internet
 
-As of now, computer netowrks are still in their infancey, but as they grow up and become sophisticated, we will probably see the spread of "computer utilities"
+*As of now, computer netowrks are still in their infancey, but as they grow up and become sophisticated, we will probably see the spread of "computer utilities"*
 
