@@ -1,15 +1,22 @@
 # CIT 114 Week 2
 
-Summarize a few key points made in the readings or videos.
-Identify two quotes that were made, that you found interesting.
-What new facts did you learn from this section?
-What questions remain in your mind after reading this section?
-
 ##### Here are some important things I learned 
-- I learned that not everything online is the cloud. The question in one of the assignenments threw me because I thought everything online is the cloud. My brain still thinks about IT the way it was 20 years ago. I've now learned it's evolved definition "a distinct IT enviro for the purpose of remotely provisioning scalable and measured IT resources". 
-##### Quotes
-- I found the two quotes by John McCarthy and Leonard Kleinrock interesting. They knew where technology was going. Especially the Mr. McCarthy, predicting that it would become a utility since that was early 60's. 
+I learned that not everything online is the cloud. The question in one of the assignenments threw me because I thought everything online is the cloud. My brain still thinks about IT the way it was 20 years ago. I've now learned it's evolved definition "a distinct IT environment for the purpose of remotely provisioning scalable and measured IT resources". John McCarthy (1961) 
+
+##### Quotes-
+> *"If computers of the kind I have advocated become the computers of the future, then computing may someday be organized as a public utility just as the telephone system is a public utility... The computer utility could become the basis of a new and important industry."*
+
+John McCarthy, Architects of the Information Society, Thirty-Five Years of the Laboratory for Computer Science at MIT 
+
+> *"As of now, computer networks are still in their infancy, but as they grow up and become sophisticated, we will probably see the spread of 'computer utilities' ..."*
+
+Leonard Kleinrock
+Advanced Research Projects Agency Network
+
+It's interesting that McCarthy and Kleinrock were calling this way back in the 60's, early 60's to boot. Also, I never thought of it as a utility but that is what it is now. It's such a part of our lives now, just like electric and water utilities. And it has really shown in the past year and a half that we have been staying at home because of Covid. 
 ##### Quesions left 
+I'd like to know what was that technological spark that propelled us foward in such a short amount of time. I know that storage was very expensive in the past but we've come light years ahead in the just the pasts 25 years. What was the delay from when McCarthy and Kleinrock made those statements to the mid 1990's when everything just took off.
+
 ##### Summarize
 ### WEEK 2 - CLOUD COMPUTING
 
