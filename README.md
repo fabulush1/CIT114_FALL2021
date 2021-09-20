@@ -13,7 +13,7 @@ John McCarthy, Architects of the Information Society, Thirty-Five Years of the L
 Leonard Kleinrock
 Advanced Research Projects Agency Network
 
-It's interesting that McCarthy and Kleinrock were calling this way back in the 60's, early 60's to boot. Also, I never thought of it as a utility but that is what it is now. It's such a part of our lives now, just like electric and water utilities. And it has really shown in the past year and a half that we have been staying at home because of Covid. 
+It's interesting that McCarthy and Kleinrock were calling this way back in the 60's, early 60's to boot. Also, I never thought of it as a utility but that is what it is now. Computers and the internet are such a part of our lives now, just like electric and water utilities. And it has really shown in the past year and a half that we have been staying at home because of Covid. 
 ##### Quesions left 
 I'd like to know what was that technological spark that propelled us foward in such a short amount of time. I know that storage was very expensive in the past but we've come light years ahead in the just the pasts 25 years. What was the delay from when McCarthy and Kleinrock made those statements to the mid 1990's when everything just took off.
 
